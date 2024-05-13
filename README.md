@@ -1,6 +1,6 @@
 # Meaning Economy Network Documents
 
-Welcome to the official repository for the Meaning Economy Network's foundational documents. This repository contains the governing documents that outline the mission, vision, core values, and operational guidelines of our network.
+Welcome to the official repository for the Meaning Economy Network's [foundational documents](https://github.com/AdrianThonyNava/Meaning-Economy-Network/blob/main/Founding_Document.md). This repository contains the governing documents that outline the mission, vision, core values, and operational guidelines of our network.
 
 ## Purpose
 
